@@ -36,9 +36,9 @@ java -jar $1.jar
 
 ```console
 
-you@You:~/java/project/src$ javac dir/*.java
-you@You:~/java/project/src$ jar cvfe dir.jar dir.Main dir/*.class
-you@You:~/java/project/src$ java -jar dir.jar
+you@You:~/java/project/src$ grind_java mydir
+you@You:~/java/project/src$ pour_java mydir
+you@You:~/java/project/src$ sip_java mydir
 
 ```
 
