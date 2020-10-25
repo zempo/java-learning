@@ -1,9 +1,15 @@
-# Overview
+# My Overview of JAVA
 
-## Useful Learning Links
+<img src="https://www.neobytesolutions.com/wp-content/gallery/geek-jokes/java-problem-joke.jpg" alt="Java Joke: I had a problem in Java. Now I have a problem factory.">
 
+## JAVA Links
+
+---
+
+- [Beginner's Checklist](https://dev.to/smartyansh/code-review-checklist-for-java-beginners-181f)
 - [Documentation (Java 15 Standard edition)](https://docs.oracle.com/en/java/javase/15/)
 - [How to use Randoms in Java](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
+- [Streams (foreach, map, etc)](https://stackify.com/streams-guide-java-8/)
 - [Typecasting in Java](https://www.edureka.co/blog/type-casting-in-java/)
 
 ## Compiling Your Code
@@ -41,5 +47,3 @@ you@You:~/java/project/src$ pour_java mydir
 you@You:~/java/project/src$ sip_java mydir
 
 ```
-
-## Useful links
